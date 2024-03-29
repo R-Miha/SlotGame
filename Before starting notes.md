@@ -37,4 +37,4 @@ Short rules:
 3x3 board with 8 symbols, using ways. Tiles are independent of each other. One of the symbols will be Scatter (hitting all 3 on a way gives free rerolls), another will be a 2x Wild (replaces any symbol except scatter), the others will be playing cards from 2 to 7, with each of them having their own probability and payouts. A Way only pays out if all three of the spots have the same symbol.
 
 Symbol probabilities, payouts can be seen in the sheet:
-https://docs.google.com/spreadsheets/d/1-FaA939JWSmm_OtQYgXuqNWeH4UA_FRuOuzLrKPLuQk/edit#gid=0
+https://docs.google.com/spreadsheets/d/1rMVa1tdbEBfdtDYl_c7_GQ-xJaS74WwaTskWfod2D-k/edit?usp=sharing
